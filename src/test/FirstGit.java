@@ -7,6 +7,7 @@ public class FirstGit {
 		System.out.println("A");
 		System.out.println("AAAA");
 		System.out.println("commit + tag");
+		System.out.println("commit + tag");
 	}
 
 }
