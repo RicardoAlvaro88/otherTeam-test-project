@@ -8,6 +8,7 @@ public class FirstGit {
 		System.out.println("AAAA");
 		System.out.println("commit + tag");
 		System.out.println("commit + tag");
+		System.out.println("stworzony 03.11.2021 09:50");
 	}
 
 }
